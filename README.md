@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/gtookes1/New-Sheriff-In-Town/blob/30435634d3321a9ade93b59775006dcaa50671aa/willsmithmeme%20Background%20Removed.png" width="150" />
+  <img src=https://github.com/user-attachments/assets/6ee40e1b-2790-4fa5-ae82-39a14a8a6adb" width="150" />
   <img src="https://github.com/gtookes1/New-Sheriff-In-Town/blob/main/AzurePHOTO.jpeg" width="250" />
 </div>
 
