@@ -1,6 +1,6 @@
 # Sheriff-DC-running-ActiveDirectoryville
 
- <h1 align="center">"New Sheriff In Town"</h1> 
+ <h1 align="center">"Sheriff DC running ActiveDirectoryville"</h1> 
 
 
 
@@ -12,7 +12,7 @@
 <h2>Summary</h2
 ____________________________________________________________________  
   
-  Mircosoft Azure helps individuals build, store, and run things easily on the web. In this project, one of two virtual machines has been created within Azure. One is the domain controller that acts as a DNS server while the other one represents many clients/users within the network. We are focusing on the "domain controller," which assists in managing user accounts, permissions, and overall security of a network like the sheriff in a town. This is the very foundation needed for creating and deploying ActiveDirectoryville (Active Directory) demonstrated below......
+ This project follows the project: "New Sheriff In Town."  In this project, we give the domain controller, also known as "Sheriff DC" the chance to run Active Directory or "AD." The gag is that AD has to be turned on like the switches on a circuit breaker, in order for the admin to control all aspects of the domain. This will be demonstrated below.....
 
 <h3>&#9670; Environments and Technologies Used</h3> 
 
