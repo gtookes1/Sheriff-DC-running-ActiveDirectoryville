@@ -1,13 +1,11 @@
 # Sheriff-DC-running-ActiveDirectoryville
 
  <h1 align="center">"Sheriff DC running ActiveDirectoryville"</h1> 
+![image](https://github.com/user-attachments/assets/798693bd-16c3-4901-a855-740bc8903926)
 
 
 
-<div align="center">
-  <img src=https://github.com/user-attachments/assets/6ee40e1b-2790-4fa5-ae82-39a14a8a6adb" width="150" />
-  <img src="https://github.com/gtookes1/New-Sheriff-In-Town/blob/main/AzurePHOTO.jpeg" width="250" />
-</div>
+
 
 <h2>Summary</h2
 ____________________________________________________________________  
