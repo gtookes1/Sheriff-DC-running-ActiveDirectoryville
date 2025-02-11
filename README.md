@@ -34,6 +34,6 @@ ________________________________________________________________________________
 ### 1. Log in
 ### 2. click "add roles and features
 ### 3. Click Role based (should already be selected)
-### 4. Select s serveer from the server pool 
+### 4. Select a server from the server pool 
 ### 5. Click "Active Directory Domain Servcies"
 ### 6. Click "Install"
