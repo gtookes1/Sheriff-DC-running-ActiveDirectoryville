@@ -36,7 +36,7 @@ ________________________________________________________________________________
 
 ### 2. click "add roles and features
 
-### 3. Click Role based (should already be selected)
+### 3. Click "Role based installation" (should already be selected)
 
 ### 4. Select a server from the server pool 
 
