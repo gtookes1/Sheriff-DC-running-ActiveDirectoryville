@@ -47,10 +47,10 @@ ________________________________________________________________________________
 
 
 ### 5. Click "Active Directory Domain Servcies"
-<img width="1012" alt="image" src="https://github.com/user-attachments/assets/bb3d9bcb-7010-4da5-8ab5-2703d2882b9f" />
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/bb3d9bcb-7010-4da5-8ab5-2703d2882b9f" />
 
 ### 6. Click "Install"
-<img width="1308" alt="image" src="https://github.com/user-attachments/assets/79b72611-afcc-4bb3-9a0d-e715da9e406a" />
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/79b72611-afcc-4bb3-9a0d-e715da9e406a" />
 
 ### 7. Close it out 
-<img width="1016" alt="image" src="https://github.com/user-attachments/assets/5eaa9a3f-e021-4d58-8eff-54e9e24ca1af" />
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/5eaa9a3f-e021-4d58-8eff-54e9e24ca1af" />
