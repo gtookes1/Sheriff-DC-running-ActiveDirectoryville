@@ -43,3 +43,5 @@ ________________________________________________________________________________
 ### 5. Click "Active Directory Domain Servcies"
 
 ### 6. Click "Install"
+
+### 7. Close it out 
