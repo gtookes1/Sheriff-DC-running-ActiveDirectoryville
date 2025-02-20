@@ -36,7 +36,7 @@ ________________________________________________________________________________
 
 
 ### 2. click "add roles and features
-<img width="1308" alt="image" src="https://github.com/user-attachments/assets/4b2ce5f1-b936-418a-889a-c7aa5578e9a4" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/4b2ce5f1-b936-418a-889a-c7aa5578e9a4" />
 
 ### 3. Click "Role based installation" (should already be selected)
 <img width="558" alt="image" src="https://github.com/user-attachments/assets/7c985c44-c9f3-4d69-a95f-bb40d4bf824f" />
