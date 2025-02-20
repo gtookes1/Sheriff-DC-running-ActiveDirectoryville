@@ -43,7 +43,7 @@ ________________________________________________________________________________
 
 
 ### 4. Select a server from the server pool (your domain controller should be the only one populated)
-<img width="1015" alt="image" src="https://github.com/user-attachments/assets/e1b098f2-9096-4582-ae06-2408524bc7ac" />
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/e1b098f2-9096-4582-ae06-2408524bc7ac" />
 
 
 ### 5. Click "Active Directory Domain Servcies"
