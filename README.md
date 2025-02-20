@@ -33,8 +33,11 @@ ________________________________________________________________________________
 
 
 ### 1. Log in
+<img width="544" alt="image" src="https://github.com/user-attachments/assets/04a06933-ce04-4293-9303-c1071e637b9a" />
+
 
 ### 2. click "add roles and features
+<img width="1308" alt="image" src="https://github.com/user-attachments/assets/4b2ce5f1-b936-418a-889a-c7aa5578e9a4" />
 
 ### 3. Click "Role based installation" (should already be selected)
 
