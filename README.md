@@ -38,7 +38,7 @@ ________________________________________________________________________________
 
 ### 3. Click "Role based installation" (should already be selected)
 
-### 4. Select a server from the server pool 
+### 4. Select a server from the server pool (your domain controller should be the only one populated)
 
 ### 5. Click "Active Directory Domain Servcies"
 
