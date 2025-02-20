@@ -31,11 +31,11 @@ ____________________________________________________________________
 <h4 align="center">Deployment and Configuration Steps</h4>
 ________________________________________________________________________________________
 
-### 1. Log in
+### 1. Log In
 <img width="544" alt="image" src="https://github.com/user-attachments/assets/04a06933-ce04-4293-9303-c1071e637b9a" />
 
 
-### 2. click "add roles and features
+### 2. click "Add Roles and Features"
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/4b2ce5f1-b936-418a-889a-c7aa5578e9a4" />
 
 ### 3. Click "Role based installation" (should already be selected)
@@ -52,5 +52,5 @@ ________________________________________________________________________________
 ### 6. Click "Install"
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/79b72611-afcc-4bb3-9a0d-e715da9e406a" />
 
-### 7. Close it out 
+### 7. Close It Out 
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/5eaa9a3f-e021-4d58-8eff-54e9e24ca1af" />
